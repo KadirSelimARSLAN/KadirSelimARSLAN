@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KadirSelimARSLAN
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Unity with C#
 - 📫 How to reach me kadirselimarslan@gmail.com
 
 <!---
